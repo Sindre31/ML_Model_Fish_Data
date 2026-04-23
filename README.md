@@ -76,16 +76,6 @@ This dataset was not originally collected for machine learning, which creates se
 
 Because of this, the project should be understood as a practical machine learning investigation on a complex dataset rather than a polished production model.
 
-## Repository contents
-
-```text
-.
-├── info284_groupExam.ipynb
-├── README.md
-├── docs/
-└── outputs/
-```
-
 ## Running the project
 
 Install the required libraries first:
@@ -103,7 +93,3 @@ jupyter notebook info284_groupExam.ipynb
 ## Results
 
 The final results should be interpreted in light of the preprocessing decisions, the target chosen, and the overall complexity of the dataset. The main value of the project lies in the full investigation from raw data to evaluated models, as well as the reflections on what worked and what did not.
-
-## Note
-
-The public version of this repository should not include confidential raw course data. If the project is uploaded publicly, it is better to include code, documentation, and descriptions of the workflow rather than the original dataset itself.
